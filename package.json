@@ -1,0 +1,39 @@
+{
+  "name": "stepnicka-toolkit",
+  "displayName": "Stepnicka ToolKit",
+  "description": "Electron, HTML, CSS, API, TailwindCSS, And Elements For HTML, ToolKit For Developer Junior/FullStack",
+  "author": "StepnickaStudios",
+  "version": "1.0.0",
+  "keywords": ["electron", "snippets", "electronjs", "html", "css", "tailwindcss", "api"],
+  "icon": "Icon.png",
+  "license": "MIT",
+  "publisher": "StepnickaStudio",
+  "repository": {
+    "type": "github",
+    "url":"https://github.com/StepnickaStudios/Stepnicka-ToolKit"
+  },
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Snippets",
+    "Visualization",
+    "Debuggers"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/htmlElements.code-snippets"
+      }
+    ]
+  }
+}
