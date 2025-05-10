@@ -1,6 +1,6 @@
 # Change Log
 All updates for [Stepnicka-ToolKit]
-<img src="Image/Banner.png" style="width:90%; height:90%; box-shadow: 0 0 1rem; margin-top: 0.5rem; margin-bottom: 0.5rem;  object-fit: cover; border-radius: 1rem;" alt="Banner.png">
+<img src="Banner.png" style="width:90%; height:90%; box-shadow: 0 0 1rem; margin-top: 0.5rem; margin-bottom: 0.5rem;  object-fit: cover; border-radius: 1rem;" alt="Banner.png">
 
 ## Social
 [Instagram] (https://instagram.com/stepnickast) <br>
@@ -30,7 +30,7 @@ All updates for [Stepnicka-ToolKit]
 
 ### 📦 Added :
 - New Snippets for HTML setup, including [ Meta, TaildwindCss, Material Icons, and Google Fonts Icons, Mini WebPage, etc ]
-<img src="Image/WebView.png" width="80%" alt="Web.png">
+<img src="WebView.png" width="80%" alt="Web.png">
 <br>
 - Adm-Zip : Download Zip files easily and unzip them
 - ## 📂 Snippets Explorer Panel

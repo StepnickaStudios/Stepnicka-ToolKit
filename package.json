@@ -3,7 +3,7 @@
   "displayName": "Stepnicka ToolKit",
   "description": "Electron, HTML, CSS, API, TailwindCSS, And Elements For HTML, ToolKit For Developer Junior/FullStack",
   "author": "StepnickaStudios",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "activationEvents": [
     "onCommand:stepnicka.insertSnippet",
     "onCommand:stepnicka.apoyar"
